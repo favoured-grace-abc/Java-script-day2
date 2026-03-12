@@ -1,6 +1,3 @@
-// Given a list of words, print each word in uppercase if it has more than 4 letters, lowercase if it has fewer, and title case if it has exactly 4.
-
-
 const names =["Amarachi", "John", "Grace", "Faith", "Joy", "Mary", "Peter", "James"];
 
 for(let i of names){
