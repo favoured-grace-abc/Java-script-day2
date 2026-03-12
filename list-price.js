@@ -9,7 +9,7 @@ for (let i = 1; i <= 8; i++) {
   else if (i === 5) originalPrice = 90;
   else if (i === 6) originalPrice = 25;
   else if (i === 7) originalPrice = 55;
-  else if (i === 8) originalPrice = 80;
+  else if (i === 8) originalPrice = 80;f
 
   let discountedPrice = originalPrice;
 
